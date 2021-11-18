@@ -1,8 +1,8 @@
 # Exercism Ruby Track
 
-[![Configlet Status](https://github.com/exercism/ruby/workflows/Configlet%20CI/badge.svg)](https://github.com/exercism/ruby/actions?query=workflow%3A%22Configlet+CI%22+branch%3Amaster)
-[![Exercise Test Status](https://github.com/exercism/ruby/workflows/Exercise%20tests/badge.svg)](https://github.com/exercism/ruby/actions?query=workflow%3A%22Exercise+tests%22+branch%3Amaster)
-[![Join the chat at https://gitter.im/exercism/ruby](https://badges.gitter.im/exercism/ruby.svg)](https://gitter.im/exercism/ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Configlet Status][1]][2]
+[![Exercise Test Status][3]][4]
+[![Join the chat at https://gitter.im/exercism/ruby][5]][6]
 
 Exercism Exercises in Ruby
 
@@ -403,3 +403,10 @@ The Ruby icon is the Vienna.rb logo, and is used with permission. Thanks Floor
 Dress :)
 
 [problem-specifications]: https://github.com/exercism/problem-specifications
+
+[1]: https://github.com/exercism/ruby/workflows/Configlet%20CI/badge.svg
+[2]: https://github.com/exercism/ruby/actions?query=workflow%3A%22Configlet+CI%22+branch%3Amaster
+[3]: https://github.com/exercism/ruby/workflows/Exercise%20tests/badge.svg
+[4]: https://github.com/exercism/ruby/actions?query=workflow%3A%22Exercise+tests%22+branch%3Amaster
+[5]: https://badges.gitter.im/exercism/ruby.svg
+[6]: https://gitter.im/exercism/ruby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
